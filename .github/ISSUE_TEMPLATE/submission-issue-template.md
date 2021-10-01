@@ -1,7 +1,7 @@
 ---
 name: submission issue template
 about: sub履歴記録用テンプレート
-title: "\U0001F5E3[ディスカッションのタイトル]"
+title: ":rocket: [タイトル]"
 labels: submission
 
 ---
