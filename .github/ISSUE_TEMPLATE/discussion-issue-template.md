@@ -3,7 +3,6 @@ name: discussion issue template
 about: いい感じのdiscussionを提示するためのテンプレート
 title: "\U0001F5E3[ディスカッションのタイトル]"
 labels: discussion
-assignees: ryryrymyg
 
 ---
 
