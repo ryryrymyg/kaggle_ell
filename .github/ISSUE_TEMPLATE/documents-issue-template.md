@@ -1,7 +1,7 @@
 ---
 name: Documents issue template
-about: "\U0001F4DDここにタイトルを入れてください"
-title: ''
+about: ドキュメント(ルールやノート)の概要をまとめるためのテンプレート
+title: "\U0001F4DDここにタイトルを入れてください"
 labels: documentation
 assignees: ''
 
