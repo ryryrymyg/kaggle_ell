@@ -1,7 +1,7 @@
 ---
 name: submission issue template
 about: sub履歴記録用テンプレート
-title: ":rocket: [タイトル]"
+title: ":rocket:【submission】[タイトル]"
 labels: submission
 assignees: ''
 
